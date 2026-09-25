@@ -1,10 +1,9 @@
-CREATE DATABASE Arul55;
-USE Arul55;
+CREATE DATABASE Arul33;
+USE Arul33;
 	CREATE TABLE Department (
     DepartmentID INT PRIMARY KEY,
     DepartmentName VARCHAR(50)
 );
-
 CREATE TABLE Faculty (
     FacultyID INT PRIMARY KEY,
     FacultyName VARCHAR(50),
