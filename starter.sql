@@ -4,6 +4,7 @@ USE Arul55;
     DepartmentID INT PRIMARY KEY,
     DepartmentName VARCHAR(50)
 );
+
 CREATE TABLE Faculty (
     FacultyID INT PRIMARY KEY,
     FacultyName VARCHAR(50),
